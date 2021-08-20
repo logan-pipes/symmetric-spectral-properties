@@ -7,3 +7,31 @@ title: "symmetric-spectral-properties"
 version: 1.0.0
 date-released: 2021-08-20
 url: "https://github.com/logan-pipes/symmetric-spectral-properties"
+references:
+  - authors:
+      - family-names: Champagne
+        given-names: Gabriel
+      - family-names: Johnston
+        given-names: Nathaniel
+      - family-names: MacDonald
+        given-names: Mitchell
+      - family-names: Pipes
+        given-names: Logan
+    title: Spectral Properties of Symmetric Quantum States and Symmetric Entanglement Witnesses
+    type: article
+  - authors:
+      - family-names: Johnston
+        given-names: Nathaniel
+    title: QETLAB
+    type: software
+    version: 1.0
+    url: "https://qetlab.com"
+  - authors:
+      - family-names: Boyd
+        given-names: Stephen
+      - family-names: Grant
+        given-names: Michael
+    title: "CVX: Matlab Software for Disciplined Convex Programming"
+    type: software
+    version: 2.1
+    url: "http://cvxr.com/cvx"
