@@ -1,4 +1,4 @@
-%%  DecompWitConstruction
+﻿%%  DecompWitConstruction
 %   Determines whether or not there exists a decomposable symmetric
 %   entanglement witness with the maximal number (d(d-1)/2) of negative
 %   eigenvalues.
@@ -83,3 +83,6 @@ if strcmp(cvx_status, 'Failed')
 else
     c = 1/coef;
 end
+
+end
+

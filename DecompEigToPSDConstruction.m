@@ -1,4 +1,4 @@
-%%  DecompEigToPSDConstruction
+﻿%%  DecompEigToPSDConstruction
 %   Uses semidefinite programming to implement Theorem 4 of the paper, and
 %   thus shows that certain sets of numbers cannot be spectra of
 %   decomposable symmetric entanglement witnesses.
@@ -512,3 +512,6 @@ else
         Y{j} = NaN;
     end
 end
+
+end
+
