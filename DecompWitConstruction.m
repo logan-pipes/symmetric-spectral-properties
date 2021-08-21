@@ -83,3 +83,5 @@ if strcmp(cvx_status, 'Failed')
 else
     c = 1/coef;
 end
+
+end
