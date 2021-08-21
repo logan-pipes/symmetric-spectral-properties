@@ -1,4 +1,4 @@
-%%  YEigIneqD3
+﻿%%  YEigIneqD3
 %   Determines whether or not there exists a positive semidefinite matrix Y
 %   such that several inequalities are obeyed, as specified in Theorem 5 of
 %   the paper.
@@ -46,3 +46,4 @@ else
 end
 
 end
+

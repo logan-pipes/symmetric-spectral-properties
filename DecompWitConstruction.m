@@ -1,4 +1,4 @@
-%%  DecompWitConstruction
+﻿%%  DecompWitConstruction
 %   Determines whether or not there exists a decomposable symmetric
 %   entanglement witness with the maximal number (d(d-1)/2) of negative
 %   eigenvalues.
@@ -85,3 +85,4 @@ else
 end
 
 end
+
