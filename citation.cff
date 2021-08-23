@@ -24,8 +24,9 @@ references:
         given-names: Nathaniel
     title: QETLAB
     type: software
-    version: 1.0
+    version: 0.9
     url: "https://qetlab.com"
+    doi: 10.5281/zenodo.44637
   - authors:
       - family-names: Boyd
         given-names: Stephen
