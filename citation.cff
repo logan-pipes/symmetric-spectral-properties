@@ -19,6 +19,8 @@ references:
         given-names: Logan
     title: Spectral Properties of Symmetric Quantum States and Symmetric Entanglement Witnesses
     type: article
+    url: "http://www.sciencedirect.com/science/article/pii/S0024379522001914"
+    doi: 10.1016/j.laa.2022.05.004
   - authors:
       - family-names: Johnston
         given-names: Nathaniel
